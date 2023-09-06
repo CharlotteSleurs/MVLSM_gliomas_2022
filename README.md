@@ -1,4 +1,3 @@
-# MVLSM_gliomas_2022
 
 ### Neurocognition in adults with intracranial tumors: does location really matter?
 #### Sleurs, C., Zegers, C. M. L., Compter, I., Dijkstra, J., Anten, M. H. M. E., Postma, A. A., Schijns, O. E. M. G., Hoeben, A., Sitskoorn, M. M., De Baene, W., De Roeck, L., Sunaert, S., Van Elmpt, W., Lambrecht, M., & Eekers, D. B. P. 
